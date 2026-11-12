@@ -9,9 +9,10 @@ Static website for Mountaineer Vehicle Shipping. No build step: plain HTML pages
 - `/services/` and one page each for open, enclosed, door-to-door, state-to-state, expedited, snowbird, military and auction transport
 - `/faq/`, `/reviews/`, `/contact/`
 - `/licensing-insurance/`, `/privacy/`, `/terms/`
+- `/locations/` and one page per West Virginia city under `/locations/<city>-wv/` (Charleston, Huntington, Morgantown,
+  Parkersburg, Wheeling, Martinsburg, Weirton, Fairmont, Beckley, Clarksburg, Vienna, St. Albans). Each city page
+  uses that city's own phone number and address.
 - `404.html`
-
-City and state pages are not included.
 
 ## Pricing tool
 
