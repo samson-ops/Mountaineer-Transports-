@@ -13,7 +13,6 @@ To add the tool to another page, paste the same block (one per page) and keep it
 
 Replace the bracketed placeholders in `index.html`:
 
-- `[PHONE NUMBER]` and the matching `tel:[PHONE]` links, including `phoneDisplay` / `phoneTel` in `PQ_CONFIG`
 - `siteUrl` / `siteLabel` in `PQ_CONFIG` (`[YOUR DOMAIN]`)
 - Add this site's domain to the Google Maps key's referrer restrictions (ZIP suggestions)
 - `[EMAIL ADDRESS]` / `mailto:[EMAIL]` and `[HOURS]`
